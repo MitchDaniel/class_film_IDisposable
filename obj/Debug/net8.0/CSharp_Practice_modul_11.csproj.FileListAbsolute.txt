@@ -1,0 +1,14 @@
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\bin\Debug\net8.0\CSharp_Practice_modul_11.exe
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\bin\Debug\net8.0\CSharp_Practice_modul_11.deps.json
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\bin\Debug\net8.0\CSharp_Practice_modul_11.runtimeconfig.json
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\bin\Debug\net8.0\CSharp_Practice_modul_11.dll
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\bin\Debug\net8.0\CSharp_Practice_modul_11.pdb
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.AssemblyInfoInputs.cache
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.AssemblyInfo.cs
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.csproj.CoreCompileInputs.cache
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.dll
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\refint\CSharp_Practice_modul_11.dll
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.pdb
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\CSharp_Practice_modul_11.genruntimeconfig.cache
+C:\Users\Brill\source\repos\CSharp_Practice_modul_11\CSharp_Practice_modul_11\obj\Debug\net8.0\ref\CSharp_Practice_modul_11.dll
